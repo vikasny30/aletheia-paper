@@ -1,9 +1,7 @@
 # Aletheia: A Taxonomy and Empirical Evaluation of Behavioral Failure Patterns in Large Language Models
 
 **Author:** Vikas Shivpuriya · shivpuriya0211@gmail.com  
-**Status:** Draft — contact before citing  
-**Live:** [carmeai.com/research](https://carmeai.com/research) · [carmeai.com/paper.md](https://carmeai.com/paper.md)  
-**Tool:** [carmeai.com/evaluate](https://carmeai.com/evaluate)
+**Status:** Draft — contact before citing
 
 ---
 
