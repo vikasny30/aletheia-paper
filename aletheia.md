@@ -31,7 +31,7 @@ header-includes:
         pdfkeywords={large language models, AI safety, behavioral evaluation, LLM hallucination, AI monitoring}%
       }%
       \author{Vikas Shivpuriya%
-        \thanks{LinkedIn Corporation. This work was conducted independently and does not represent the views of LinkedIn Corporation.}\\[0.3em]%
+        \\[0.3em]%
         \small Independent Researcher\\[0.2em]%
         \small\texttt{shivpuriya0211@gmail.com}%
       }%
